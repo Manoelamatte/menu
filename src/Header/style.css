@@ -5,9 +5,6 @@
     box-sizing: 0;
 }
 
-main{
-    height: 100%;
-}
 :root{
     --rosa_claro: #FFD4EA;
     --rosa_forte: #EC4399;
@@ -15,9 +12,6 @@ main{
     --rosa_punk: #B4005C;
 }
 
-body{
-    height: 100vh;
-}
 
 .menulateral{
     width: 0px;
